@@ -1,0 +1,8 @@
+.userNone{
+    user-select: none;
+    cursor: pointer;
+}
+.minHeight {
+    min-height: 100vh;
+    height: auto;
+}
